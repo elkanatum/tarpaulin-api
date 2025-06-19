@@ -1,0 +1,12 @@
+runtime: python39
+
+env_variables:
+  AUTH0_DOMAIN: "dev-kxk3ej4jph3k8f8b.us.auth0.com"
+  AUTH0_CLIENT_ID: "BYPSkm15QBDm4NZYWyZH3Q3Z0ZK6J7eH"
+  AUTH0_CLIENT_SECRET: "iVw1zKfvvSvvk0t9L5I9rYANKSd8n7-lCbk3FgA2gxhPgHkKJovm4zD4KEsVErOA"
+  AUTH0_AUDIENCE: "https://tume-tarpaulin-api"
+  BUCKET_NAME: "tume-tarpaulin-avatars"
+
+automatic_scaling:
+  min_instances: 0
+  max_instances: 10
