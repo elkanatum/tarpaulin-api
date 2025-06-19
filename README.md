@@ -8,7 +8,8 @@
 - **Status:** ✅ Fully Deployed & Functional
 
 ## 📊 **Test Results**
-![API Test Results](docs/screenshots/newman-test-results.png)
+![image](https://github.com/user-attachments/assets/01c6fe71-eb2b-4076-9bf4-bf7d0d191c5f)
+
 *Comprehensive API testing showing 114 passing assertions across 49 requests*
 
 ## 🏆 **Key Achievements**
@@ -194,18 +195,6 @@ Quality Assurance: Comprehensive testing and validation
 Elkana Tum
 📧 tume@oregonstate.edu / elkanatum@gmail.com
 🐙 GitHub
-
-Building scalable, secure, and tested cloud applications
-
-
-🌟 Interested in seeing more projects? Check out my other repositories!
-![image](https://github.com/user-attachments/assets/6e6ce35d-6d70-429d-a3d8-7d3b04383019)
-![image](https://github.com/user-attachments/assets/1f71c775-6348-4bb4-a546-23adb3d9b015)
-![image](https://github.com/user-attachments/assets/632234ba-29c1-43ec-a56a-9bb9708f1113)
-![image](https://github.com/user-attachments/assets/69549e83-7555-4987-8e20-179fdc6342cf)
-![image](https://github.com/user-attachments/assets/71ebbbd3-7411-43b2-864f-fdd47acf6422)
-![image](https://github.com/user-attachments/assets/7810af5a-9353-41ad-b1b5-c0b389bd6dfe)
-![image](https://github.com/user-attachments/assets/1442db57-eabc-4168-86ab-caeee2051f74)
 
 
 
